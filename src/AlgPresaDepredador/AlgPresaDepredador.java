@@ -47,7 +47,6 @@ public class AlgPresaDepredador {
             depredadorList.add(depredadorPonderado);
 
             presas = f0;
-
             depredador = f1;
         }
 
